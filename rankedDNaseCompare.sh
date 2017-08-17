@@ -1,6 +1,7 @@
 #!/bin/bash
 #Emily 7/6/17
 #rankedDNaseCompare
+#Just changing a bit
 #Sort DNase peaks by highest P-value. Look at 5000 peaks at a time and find the
 # % of peaks that are proximal (overlap with TSS.Filtered.4K.bed)
 #Can change the numbers of peaks it splits into at the comments. 
